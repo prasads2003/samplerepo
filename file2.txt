@@ -1,1 +1,2 @@
 This is file2 to develop from local
+This is new line from remote commit
